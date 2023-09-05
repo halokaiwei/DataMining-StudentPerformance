@@ -1,7 +1,7 @@
 # DataMining-StudentPerformance
 Data Mining - Python
 This is assignment for UECS3213 Data Mining.
-Dataset used is from Kaggle, in StudentPerformance.pdf
+Dataset used is from Kaggle, in StudentPerformance.csv
 For reference use only.
 
 Thanks to my teammates:
