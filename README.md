@@ -7,8 +7,3 @@ The tasks are Data Visualization, Preprocessing, Sampling, and Applying KNN algo
 Libraries used: 
 pandas, matplotlib, seaborn, 
 scikit.learn, numpy
-
-Thanks to my teammates:
-E Zhong Lin,
-Chia Jia Shin,
-Tong Jia Hoong.
